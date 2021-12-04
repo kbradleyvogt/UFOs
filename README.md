@@ -14,6 +14,7 @@ The screen shot below shows the data filtered on the following criteria:
 - Date = 1/4/2010
 - State = CA
 
+![filtered_data](https://user-images.githubusercontent.com/86968320/144718974-7d30b854-8446-4406-b7b2-04debfc2a027.png)
 
 ## Summary
 
